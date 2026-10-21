@@ -1,0 +1,6 @@
+{
+  "name": "gcs-downscoped",
+  "protocol": "pail-credential/1",
+  "description": "your gcloud login, downscoped to the one repository (GCS Credential Access Boundary)",
+  "script": "pail-credential-gcs-downscoped"
+}
