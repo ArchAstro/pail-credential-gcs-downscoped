@@ -21,3 +21,7 @@ Optional: SOURCE_TOKEN_CMD (default `gcloud auth print-access-token`).
 
 It speaks `pail-credential/1`: `pail-credential-gcs-downscoped get` reads `{"protocol","store","scheme"}` on stdin and prints
 `{"token","expires_at"}`. `pail-extension.json` tells `pail auth install` which file to install.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
